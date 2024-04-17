@@ -1,0 +1,365 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.42927, 41.5553]
+      },
+      "properties": {
+        "id": "1001",
+        "name": "Hospital de Mataró - 1001",
+        "lineas": [
+          {
+            "id": "1",
+            "name": "Circular",
+            "color": "#ff00ff"
+          },
+          {
+            "id": "3",
+            "name": "Camí de la Serra-Vista Alegre-Rocafonda",
+            "color": "#808080"
+          },
+          {
+            "id": "4",
+            "name": "Cirera-Molins",
+            "color": "#ff0000"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.43502, 41.55]
+      },
+      "properties": {
+        "id": "1003",
+        "name": "Cirera - 1003",
+        "lineas": [
+          {
+            "id": "1",
+            "name": "Circular",
+            "color": "#ff00ff"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.43816, 41.5491]
+      },
+      "properties": {
+        "id": "1004",
+        "name": "CAP Cirera-Molins - 1004",
+        "lineas": [
+          {
+            "id": "1",
+            "name": "Circular",
+            "color": "#ff00ff"
+          },
+          {
+            "id": "4",
+            "name": "Cirera-Molins",
+            "color": "#ff0000"
+          },
+          {
+            "id": "6",
+            "name": "Institut Català Salut - Ctra. de Mata",
+            "color": "#febf01"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.44095, 41.5511]
+      },
+      "properties": {
+        "id": "1005",
+        "name": "Sant Oleguer - 1005",
+        "lineas": [
+          {
+            "id": "1",
+            "name": "Circular",
+            "color": "#ff00ff"
+          },
+          {
+            "id": "6",
+            "name": "Institut Català Salut - Ctra. de Mata",
+            "color": "#febf01"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.44606, 41.5511]
+      },
+      "properties": {
+        "id": "1006",
+        "name": "Caputxins - 1006",
+        "lineas": [
+          {
+            "id": "1",
+            "name": "Circular",
+            "color": "#ff00ff"
+          },
+          {
+            "id": "3",
+            "name": "Camí de la Serra-Vista Alegre-Rocafonda",
+            "color": "#808080"
+          },
+          {
+            "id": "6",
+            "name": "Institut Català Salut - Ctra. de Mata",
+            "color": "#febf01"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.44785, 41.5505]
+      },
+      "properties": {
+        "id": "1007",
+        "name": "Perú - 1007",
+        "lineas": [
+          {
+            "id": "1",
+            "name": "Circular",
+            "color": "#ff00ff"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.44789, 41.5485]
+      },
+      "properties": {
+        "id": "1008",
+        "name": "Pau Picasso - 1008",
+        "lineas": [
+          {
+            "id": "1",
+            "name": "Circular",
+            "color": "#ff00ff"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.44734, 41.5469]
+      },
+      "properties": {
+        "id": "1009",
+        "name": "Escola Freta - 1009",
+        "lineas": [
+          {
+            "id": "1",
+            "name": "Circular",
+            "color": "#ff00ff"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.44575, 41.5458]
+      },
+      "properties": {
+        "id": "1010",
+        "name": "Cabanellas - 1010",
+        "lineas": [
+          {
+            "id": "1",
+            "name": "Circular",
+            "color": "#ff00ff"
+          },
+          {
+            "id": "6",
+            "name": "Institut Català Salut - Ctra. de Mata",
+            "color": "#febf01"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.44163, 41.5447]
+      },
+      "properties": {
+        "id": "1011",
+        "name": "Parc Central - 1011",
+        "lineas": [
+          {
+            "id": "1",
+            "name": "Circular",
+            "color": "#ff00ff"
+          },
+          {
+            "id": "4",
+            "name": "Cirera-Molins",
+            "color": "#ff0000"
+          },
+          {
+            "id": "6",
+            "name": "Institut Català Salut - Ctra. de Mata",
+            "color": "#febf01"
+          },
+          {
+            "id": "8",
+            "name": "Rodalies - Galícia",
+            "color": "#008040"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.44243, 41.5412]
+      },
+      "properties": {
+        "id": "1012",
+        "name": "Caminet - 1012",
+        "lineas": [
+          {
+            "id": "1",
+            "name": "Circular",
+            "color": "#ff00ff"
+          },
+          {
+            "id": "4",
+            "name": "Cirera-Molins",
+            "color": "#ff0000"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.4425, 41.5396]
+      },
+      "properties": {
+        "id": "1013",
+        "name": "Muralla - 1013",
+        "lineas": [
+          {
+            "id": "1",
+            "name": "Circular",
+            "color": "#ff00ff"
+          },
+          {
+            "id": "4",
+            "name": "Cirera-Molins",
+            "color": "#ff0000"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.44541, 41.5379]
+      },
+      "properties": {
+        "id": "1014",
+        "name": "Santa Anna - 1014",
+        "lineas": [
+          {
+            "id": "1",
+            "name": "Circular",
+            "color": "#ff00ff"
+          },
+          {
+            "id": "4",
+            "name": "Cirera-Molins",
+            "color": "#ff0000"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.44675, 41.5348]
+      },
+      "properties": {
+        "id": "1015",
+        "name": "El Cargol - 1015",
+        "lineas": [
+          {
+            "id": "1",
+            "name": "Circular",
+            "color": "#ff00ff"
+          },
+          {
+            "id": "3",
+            "name": "Camí de la Serra-Vista Alegre-Rocafonda",
+            "color": "#808080"
+          },
+          {
+            "id": "4",
+            "name": "Cirera-Molins",
+            "color": "#ff0000"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.44474, 41.5333]
+      },
+      "properties": {
+        "id": "1016",
+        "name": "Rodalies - 1016",
+        "lineas": [
+          {
+            "id": "1",
+            "name": "Circular",
+            "color": "#ff00ff"
+          },
+          {
+            "id": "3",
+            "name": "Camí de la Serra-Vista Alegre-Rocafonda",
+            "color": "#808080"
+          },
+          {
+            "id": "4",
+            "name": "Cirera-Molins",
+            "color": "#ff0000"
+          }
+        ]
+      }
+    }
+  ]
+}

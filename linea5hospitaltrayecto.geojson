@@ -1,0 +1,287 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            2.42865,
+            41.5563
+          ]
+        },
+        "properties": {
+          "id": "1073",
+          "name": "Hospital de Mataró - 1073",
+          "lineas": [
+            {
+              "id": "2",
+              "name": "Circular ",
+              "color": "#804000"
+            },
+            {
+              "id": "5",
+              "name": "Rodalies-Hospital de Mataró",
+              "color": "#00ea00"
+            }
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            2.43132,
+            41.5546
+          ]
+        },
+        "properties": {
+          "id": "1002",
+          "name": "Mataró Parc - 1002",
+          "lineas": [
+            {
+              "id": "1",
+              "name": "Circular ",
+              "color": "#ff00ff"
+            },
+            {
+              "id": "2",
+              "name": "Circular ",
+              "color": "#804000"
+            },
+            {
+              "id": "4",
+              "name": "Cirera-Molins",
+              "color": "#ff0000"
+            },
+            {
+              "id": "5",
+              "name": "Rodalies-Hospital de Mataró",
+              "color": "#00ea00"
+            }
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            2.43117,
+            41.5491
+          ]
+        },
+        "properties": {
+          "id": "1112",
+          "name": "Pl. França - 1112",
+          "lineas": [
+            {
+              "id": "5",
+              "name": "Rodalies-Hospital de Mataró",
+              "color": "#00ea00"
+            }
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            2.43147,
+            41.5468
+          ]
+        },
+        "properties": {
+          "id": "1113",
+          "name": "Pl. Itàlia - 1113",
+          "lineas": [
+            {
+              "id": "5",
+              "name": "Rodalies-Hospital de Mataró",
+              "color": "#00ea00"
+            }
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            2.43311,
+            41.5429
+          ]
+        },
+        "properties": {
+          "id": "1114",
+          "name": "Via Europa - 1114",
+          "lineas": [
+            {
+              "id": "5",
+              "name": "Rodalies-Hospital de Mataró",
+              "color": "#00ea00"
+            }
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            2.43517,
+            41.5409
+          ]
+        },
+        "properties": {
+          "id": "1115",
+          "name": "Pl. Granollers - 1115",
+          "lineas": [
+            {
+              "id": "5",
+              "name": "Rodalies-Hospital de Mataró",
+              "color": "#00ea00"
+            }
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            2.43575,
+            41.5387
+          ]
+        },
+        "properties": {
+          "id": "1168",
+          "name": "CAP Prim - 1168",
+          "lineas": [
+            {
+              "id": "5",
+              "name": "Rodalies-Hospital de Mataró",
+              "color": "#00ea00"
+            }
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            2.43654,
+            41.5372
+          ]
+        },
+        "properties": {
+          "id": "1166",
+          "name": "Ronda de la República - 1166",
+          "lineas": [
+            {
+              "id": "5",
+              "name": "Rodalies-Hospital de Mataró",
+              "color": "#00ea00"
+            }
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            2.4405,
+            41.5338
+          ]
+        },
+        "properties": {
+          "id": "1056",
+          "name": "Pl. Doctor Fleming - 1056",
+          "lineas": [
+            {
+              "id": "2",
+              "name": "Circular ",
+              "color": "#804000"
+            },
+            {
+              "id": "5",
+              "name": "Rodalies-Hospital de Mataró",
+              "color": "#00ea00"
+            },
+            {
+              "id": "8",
+              "name": "Rodalies - Galícia",
+              "color": "#008040"
+            }
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            2.44275,
+            41.5322
+          ]
+        },
+        "properties": {
+          "id": "1057",
+          "name": "Ronda Barceló - 1057",
+          "lineas": [
+            {
+              "id": "2",
+              "name": "Circular ",
+              "color": "#804000"
+            },
+            {
+              "id": "5",
+              "name": "Rodalies-Hospital de Mataró",
+              "color": "#00ea00"
+            },
+            {
+              "id": "8",
+              "name": "Rodalies - Galícia",
+              "color": "#008040"
+            }
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            2.4449,
+            41.5331
+          ]
+        },
+        "properties": {
+          "id": "1058",
+          "name": "Rodalies - 1058",
+          "lineas": [
+            {
+              "id": "2",
+              "name": "Circular ",
+              "color": "#804000"
+            },
+            {
+              "id": "5",
+              "name": "Rodalies-Hospital de Mataró",
+              "color": "#00ea00"
+            },
+            {
+              "id": "8",
+              "name": "Rodalies - Galícia",
+              "color": "#008040"
+            }
+          ]
+        }
+      }
+    ]
+  }
+  

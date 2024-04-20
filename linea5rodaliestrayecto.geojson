@@ -1,0 +1,208 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1058",
+          "name": "Rodalies - 1058",
+          "lineas": [
+            {
+              "id": "2",
+              "name": "Circular ",
+              "color": "#804000"
+            },
+            {
+              "id": "5",
+              "name": "Rodalies-Hospital de Mataró",
+              "color": "#00ea00"
+            },
+            {
+              "id": "8",
+              "name": "Rodalies - Galícia",
+              "color": "#008040"
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [2.4449, 41.5331]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1059",
+          "name": "Lepant - 1059",
+          "lineas": [
+            {
+              "id": "2",
+              "name": "Circular ",
+              "color": "#804000"
+            },
+            {
+              "id": "5",
+              "name": "Rodalies-Hospital de Mataró",
+              "color": "#00ea00"
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [2.4442, 41.5359]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1060",
+          "name": "Pl. Tereses - 1060",
+          "lineas": [
+            {
+              "id": "2",
+              "name": "Circular ",
+              "color": "#804000"
+            },
+            {
+              "id": "4",
+              "name": "Cirera-Molins",
+              "color": "#ff0000"
+            },
+            {
+              "id": "5",
+              "name": "Rodalies-Hospital de Mataró",
+              "color": "#00ea00"
+            },
+            {
+              "id": "7",
+              "name": "Pl. Tereses - Cerdanyola",
+              "color": "#80ffff"
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [2.44241, 41.5383]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1117",
+          "name": "Jaume Isern - 1117",
+          "lineas": [
+            {
+              "id": "5",
+              "name": "Rodalies-Hospital de Mataró",
+              "color": "#00ea00"
+            },
+            {
+              "id": "7",
+              "name": "Pl. Tereses - Cerdanyola",
+              "color": "#80ffff"
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [2.43953, 41.5406]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1118",
+          "name": "Pl. Granollers - 1118",
+          "lineas": [
+            {
+              "id": "5",
+              "name": "Rodalies-Hospital de Mataró",
+              "color": "#00ea00"
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [2.43517, 41.5411]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1119",
+          "name": "Via Europa - 1119",
+          "lineas": [
+            {
+              "id": "5",
+              "name": "Rodalies-Hospital de Mataró",
+              "color": "#00ea00"
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [2.43303, 41.5432]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1120",
+          "name": "Pl. Itàlia - 1120",
+          "lineas": [
+            {
+              "id": "5",
+              "name": "Rodalies-Hospital de Mataró",
+              "color": "#00ea00"
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [2.43179, 41.5469]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1121",
+          "name": "Pl. França - 1121",
+          "lineas": [
+            {
+              "id": "5",
+              "name": "Rodalies-Hospital de Mataró",
+              "color": "#00ea00"
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [2.43165, 41.5498]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1073",
+          "name": "Hospital de Mataró - 1073",
+          "lineas": [
+            {
+              "id": "2",
+              "name": "Circular ",
+              "color": "#804000"
+            },
+            {
+              "id": "5",
+              "name": "Rodalies-Hospital de Mataró",
+              "color": "#00ea00"
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [2.42865, 41.5563]
+        }
+      }
+    ]
+  }
+  

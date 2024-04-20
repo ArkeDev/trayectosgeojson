@@ -1,0 +1,385 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            2.42927,
+            41.5553
+          ]
+        },
+        "properties": {
+          "id": "1001",
+          "name": "Hospital de Mataró - 1001",
+          "lineas": [
+            {
+              "id": "1",
+              "name": "Circular ",
+              "color": "#ff00ff"
+            },
+            {
+              "id": "3",
+              "name": "Camí de la Serra-Vista Alegre-Rocafonda",
+              "color": "#808080"
+            },
+            {
+              "id": "4",
+              "name": "Cirera-Molins",
+              "color": "#ff0000"
+            }
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            2.43132,
+            41.5546
+          ]
+        },
+        "properties": {
+          "id": "1002",
+          "name": "Mataró Parc - 1002",
+          "lineas": [
+            {
+              "id": "1",
+              "name": "Circular ",
+              "color": "#ff00ff"
+            },
+            {
+              "id": "2",
+              "name": "Circular ",
+              "color": "#804000"
+            },
+            {
+              "id": "4",
+              "name": "Cirera-Molins",
+              "color": "#ff0000"
+            },
+            {
+              "id": "5",
+              "name": "Rodalies-Hospital de Mataró",
+              "color": "#00ea00"
+            }
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            2.43231,
+            41.5492
+          ]
+        },
+        "properties": {
+          "id": "1100",
+          "name": "Joan Peiró - 1100",
+          "lineas": [
+            {
+              "id": "4",
+              "name": "Cirera-Molins",
+              "color": "#ff0000"
+            }
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            2.43277,
+            41.5467
+          ]
+        },
+        "properties": {
+          "id": "1101",
+          "name": "Centre Cívic Cirera - 1101",
+          "lineas": [
+            {
+              "id": "4",
+              "name": "Cirera-Molins",
+              "color": "#ff0000"
+            }
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            2.43501,
+            41.5471
+          ]
+        },
+        "properties": {
+          "id": "1102",
+          "name": "Pl. A. Machado - 1102",
+          "lineas": [
+            {
+              "id": "4",
+              "name": "Cirera-Molins",
+              "color": "#ff0000"
+            }
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            2.43816,
+            41.5491
+          ]
+        },
+        "properties": {
+          "id": "1004",
+          "name": "CAP Cirera-Molins - 1004",
+          "lineas": [
+            {
+              "id": "1",
+              "name": "Circular ",
+              "color": "#ff00ff"
+            },
+            {
+              "id": "4",
+              "name": "Cirera-Molins",
+              "color": "#ff0000"
+            },
+            {
+              "id": "6",
+              "name": "Institut Català Salut - Ctra. de Mata",
+              "color": "#febf01"
+            }
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            2.44034,
+            41.5503
+          ]
+        },
+        "properties": {
+          "id": "1103",
+          "name": "Figuera Major - 1103",
+          "lineas": [
+            {
+              "id": "4",
+              "name": "Cirera-Molins",
+              "color": "#ff0000"
+            }
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            2.44147,
+            41.5474
+          ]
+        },
+        "properties": {
+          "id": "1104",
+          "name": "Carles Padrós - 1104",
+          "lineas": [
+            {
+              "id": "4",
+              "name": "Cirera-Molins",
+              "color": "#ff0000"
+            }
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            2.44163,
+            41.5447
+          ]
+        },
+        "properties": {
+          "id": "1011",
+          "name": "Parc Central - 1011",
+          "lineas": [
+            {
+              "id": "1",
+              "name": "Circular ",
+              "color": "#ff00ff"
+            },
+            {
+              "id": "4",
+              "name": "Cirera-Molins",
+              "color": "#ff0000"
+            },
+            {
+              "id": "6",
+              "name": "Institut Català Salut - Ctra. de Mata",
+              "color": "#febf01"
+            },
+            {
+              "id": "8",
+              "name": "Rodalies - Galícia",
+              "color": "#008040"
+            }
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            2.44243,
+            41.5412
+          ]
+        },
+        "properties": {
+          "id": "1012",
+          "name": "Caminet - 1012",
+          "lineas": [
+            {
+              "id": "1",
+              "name": "Circular ",
+              "color": "#ff00ff"
+            },
+            {
+              "id": "4",
+              "name": "Cirera-Molins",
+              "color": "#ff0000"
+            }
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            2.4425,
+            41.5396
+          ]
+        },
+        "properties": {
+          "id": "1013",
+          "name": "Muralla - 1013",
+          "lineas": [
+            {
+              "id": "1",
+              "name": "Circular ",
+              "color": "#ff00ff"
+            },
+            {
+              "id": "4",
+              "name": "Cirera-Molins",
+              "color": "#ff0000"
+            }
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            2.44541,
+            41.5379
+          ]
+        },
+        "properties": {
+          "id": "1014",
+          "name": "Santa Anna - 1014",
+          "lineas": [
+            {
+              "id": "1",
+              "name": "Circular ",
+              "color": "#ff00ff"
+            },
+            {
+              "id": "4",
+              "name": "Cirera-Molins",
+              "color": "#ff0000"
+            }
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            2.44675,
+            41.5348
+          ]
+        },
+        "properties": {
+          "id": "1015",
+          "name": "El Cargol - 1015",
+          "lineas": [
+            {
+              "id": "1",
+              "name": "Circular ",
+              "color": "#ff00ff"
+            },
+            {
+              "id": "3",
+              "name": "Camí de la Serra-Vista Alegre-Rocafonda",
+              "color": "#808080"
+            },
+            {
+              "id": "4",
+              "name": "Cirera-Molins",
+              "color": "#ff0000"
+            }
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            2.44474,
+            41.5333
+          ]
+        },
+        "properties": {
+          "id": "1016",
+          "name": "Rodalies - 1016",
+          "lineas": [
+            {
+              "id": "1",
+              "name": "Circular ",
+              "color": "#ff00ff"
+            },
+            {
+              "id": "3",
+              "name": "Camí de la Serra-Vista Alegre-Rocafonda",
+              "color": "#808080"
+            },
+            {
+              "id": "4",
+              "name": "Cirera-Molins",
+              "color": "#ff0000"
+            }
+          ]
+        }
+      }
+    ]
+  }
+  

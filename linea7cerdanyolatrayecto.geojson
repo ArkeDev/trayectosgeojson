@@ -1,0 +1,155 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [2.42556, 41.5398]
+            },
+            "properties": {
+                "id": "1128",
+                "name": "Parc Cerdanyola - 1128",
+                "lineas": [
+                    {
+                        "id": "6",
+                        "name": "Institut Català Salut - Ctra. de Mata",
+                        "color": "#febf01"
+                    },
+                    {
+                        "id": "7",
+                        "name": "Pl. Tereses - Cerdanyola",
+                        "color": "#80ffff"
+                    },
+                    {
+                        "id": "8",
+                        "name": "Rodalies - Galícia",
+                        "color": "#008040"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [2.42712, 41.538]
+            },
+            "properties": {
+                "id": "1050",
+                "name": "Gatassa - 1050",
+                "lineas": [
+                    {
+                        "id": "2",
+                        "name": "Circular",
+                        "color": "#804000"
+                    },
+                    {
+                        "id": "6",
+                        "name": "Institut Català Salut - Ctra. de Mata",
+                        "color": "#febf01"
+                    },
+                    {
+                        "id": "7",
+                        "name": "Pl. Tereses - Cerdanyola",
+                        "color": "#80ffff"
+                    },
+                    {
+                        "id": "8",
+                        "name": "Rodalies - Galícia",
+                        "color": "#008040"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [2.43047, 41.5365]
+            },
+            "properties": {
+                "id": "1051",
+                "name": "Institut Català Salut - 1051",
+                "lineas": [
+                    {
+                        "id": "2",
+                        "name": "Circular",
+                        "color": "#804000"
+                    },
+                    {
+                        "id": "6",
+                        "name": "Institut Català Salut - Ctra. de Mata",
+                        "color": "#febf01"
+                    },
+                    {
+                        "id": "7",
+                        "name": "Pl. Tereses - Cerdanyola",
+                        "color": "#80ffff"
+                    },
+                    {
+                        "id": "8",
+                        "name": "Rodalies - Galícia",
+                        "color": "#008040"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [2.43696, 41.5376]
+            },
+            "properties": {
+                "id": "1107",
+                "name": "Miquel Biada - 1107",
+                "lineas": [
+                    {
+                        "id": "4",
+                        "name": "Cirera-Molins",
+                        "color": "#ff0000"
+                    },
+                    {
+                        "id": "7",
+                        "name": "Pl. Tereses - Cerdanyola",
+                        "color": "#80ffff"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [2.44241, 41.5383]
+            },
+            "properties": {
+                "id": "1060",
+                "name": "Pl. Tereses - 1060",
+                "lineas": [
+                    {
+                        "id": "2",
+                        "name": "Circular",
+                        "color": "#804000"
+                    },
+                    {
+                        "id": "4",
+                        "name": "Cirera-Molins",
+                        "color": "#ff0000"
+                    },
+                    {
+                        "id": "5",
+                        "name": "Rodalies-Hospital de Mataró",
+                        "color": "#00ea00"
+                    },
+                    {
+                        "id": "7",
+                        "name": "Pl. Tereses - Cerdanyola",
+                        "color": "#80ffff"
+                    }
+                ]
+            }
+        }
+    ]
+}

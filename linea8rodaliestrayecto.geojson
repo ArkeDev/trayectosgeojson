@@ -1,0 +1,545 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [2.4449, 41.5331]
+            },
+            "properties": {
+                "id": "1058",
+                "name": "Rodalies - 1058",
+                "lineas": [
+                    {
+                        "id": "2",
+                        "name": "Circular ",
+                        "color": "#804000"
+                    },
+                    {
+                        "id": "5",
+                        "name": "Rodalies-Hospital de Mataró",
+                        "color": "#00ea00"
+                    },
+                    {
+                        "id": "8",
+                        "name": "Rodalies - Galícia",
+                        "color": "#008040"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [2.44375, 41.5367]
+            },
+            "properties": {
+                "id": "1087",
+                "name": "La Rambla - 1087",
+                "lineas": [
+                    {
+                        "id": "3",
+                        "name": "Camí de la Serra-Vista Alegre-Rocafonda",
+                        "color": "#808080"
+                    },
+                    {
+                        "id": "8",
+                        "name": "Rodalies - Galícia",
+                        "color": "#008040"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [2.44764, 41.5385]
+            },
+            "properties": {
+                "id": "1088",
+                "name": "Sant Joan - 1088",
+                "lineas": [
+                    {
+                        "id": "3",
+                        "name": "Camí de la Serra-Vista Alegre-Rocafonda",
+                        "color": "#808080"
+                    },
+                    {
+                        "id": "8",
+                        "name": "Rodalies - Galícia",
+                        "color": "#008040"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [2.45039, 41.5396]
+            },
+            "properties": {
+                "id": "1089",
+                "name": "Can Marfà - 1089",
+                "lineas": [
+                    {
+                        "id": "3",
+                        "name": "Camí de la Serra-Vista Alegre-Rocafonda",
+                        "color": "#808080"
+                    },
+                    {
+                        "id": "8",
+                        "name": "Rodalies - Galícia",
+                        "color": "#008040"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [2.45245, 41.5409]
+            },
+            "properties": {
+                "id": "1135",
+                "name": "Floridablanca - 1135",
+                "lineas": [
+                    {
+                        "id": "8",
+                        "name": "Rodalies - Galícia",
+                        "color": "#008040"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [2.45046, 41.5426]
+            },
+            "properties": {
+                "id": "1138",
+                "name": "Pl. Fiveller - 1138",
+                "lineas": [
+                    {
+                        "id": "8",
+                        "name": "Rodalies - Galícia",
+                        "color": "#008040"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [2.44717, 41.5416]
+            },
+            "properties": {
+                "id": "1139",
+                "name": "La Coma - 1139",
+                "lineas": [
+                    {
+                        "id": "8",
+                        "name": "Rodalies - Galícia",
+                        "color": "#008040"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [2.44356, 41.5421]
+            },
+            "properties": {
+                "id": "1140",
+                "name": "La Riera - 1140",
+                "lineas": [
+                    {
+                        "id": "8",
+                        "name": "Rodalies - Galícia",
+                        "color": "#008040"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [2.44163, 41.5447]
+            },
+            "properties": {
+                "id": "1011",
+                "name": "Parc Central - 1011",
+                "lineas": [
+                    {
+                        "id": "1",
+                        "name": "Circular ",
+                        "color": "#ff00ff"
+                    },
+                    {
+                        "id": "4",
+                        "name": "Cirera-Molins",
+                        "color": "#ff0000"
+                    },
+                    {
+                        "id": "6",
+                        "name": "Institut Català Salut - Ctra. de Mata",
+                        "color": "#febf01"
+                    },
+                    {
+                        "id": "8",
+                        "name": "Rodalies - Galícia",
+                        "color": "#008040"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [2.4387, 41.543]
+            },
+            "properties": {
+                "id": "1124",
+                "name": "Geganta - 1124",
+                "lineas": [
+                    {
+                        "id": "6",
+                        "name": "Institut Català Salut - Ctra. de Mata",
+                        "color": "#febf01"
+                    },
+                    {
+                        "id": "8",
+                        "name": "Rodalies - Galícia",
+                        "color": "#008040"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [2.43585, 41.5409]
+            },
+            "properties": {
+                "id": "1167",
+                "name": "Pl. Granollers - 1167",
+                "lineas": [
+                    {
+                        "id": "6",
+                        "name": "Institut Català Salut - Ctra. de Mata",
+                        "color": "#febf01"
+                    },
+                    {
+                        "id": "8",
+                        "name": "Rodalies - Galícia",
+                        "color": "#008040"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [2.43433, 41.5401]
+            },
+            "properties": {
+                "id": "1143",
+                "name": "O´ Donnell - 1143",
+                "lineas": [
+                    {
+                        "id": "8",
+                        "name": "Rodalies - Galícia",
+                        "color": "#008040"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [2.43216, 41.5382]
+            },
+            "properties": {
+                "id": "1144",
+                "name": "Biblioteca Pompeu Fabra - 1144",
+                "lineas": [
+                    {
+                        "id": "8",
+                        "name": "Rodalies - Galícia",
+                        "color": "#008040"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [2.4305, 41.537]
+            },
+            "properties": {
+                "id": "1022",
+                "name": "Institut Català Salut - 1022",
+                "lineas": [
+                    {
+                        "id": "1",
+                        "name": "Circular ",
+                        "color": "#ff00ff"
+                    },
+                    {
+                        "id": "8",
+                        "name": "Rodalies - Galícia",
+                        "color": "#008040"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [2.42801, 41.5377]
+            },
+            "properties": {
+                "id": "1023",
+                "name": "Gatassa - 1023",
+                "lineas": [
+                    {
+                        "id": "1",
+                        "name": "Circular ",
+                        "color": "#ff00ff"
+                    },
+                    {
+                        "id": "8",
+                        "name": "Rodalies - Galícia",
+                        "color": "#008040"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [2.42609, 41.5394]
+            },
+            "properties": {
+                "id": "1145",
+                "name": "Parc Cerdanyola - 1145",
+                "lineas": [
+                    {
+                        "id": "8",
+                        "name": "Rodalies - Galícia",
+                        "color": "#008040"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [2.42401, 41.5404]
+            },
+            "properties": {
+                "id": "1046",
+                "name": "Cerdanyola - 1046",
+                "lineas": [
+                    {
+                        "id": "2",
+                        "name": "Circular ",
+                        "color": "#804000"
+                    },
+                    {
+                        "id": "8",
+                        "name": "Rodalies - Galícia",
+                        "color": "#008040"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [2.42268, 41.5411]
+            },
+            "properties": {
+                "id": "1026",
+                "name": "Ronda Cerdanya - 1026",
+                "lineas": [
+                    {
+                        "id": "1",
+                        "name": "Circular ",
+                        "color": "#ff00ff"
+                    },
+                    {
+                        "id": "8",
+                        "name": "Rodalies - Galícia",
+                        "color": "#008040"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [2.42225, 41.5426]
+            },
+            "properties": {
+                "id": "1027",
+                "name": "Vallès - 1027",
+                "lineas": [
+                    {
+                        "id": "1",
+                        "name": "Circular ",
+                        "color": "#ff00ff"
+                    },
+                    {
+                        "id": "8",
+                        "name": "Rodalies - Galícia",
+                        "color": "#008040"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [2.4226, 41.5437]
+            },
+            "properties": {
+                "id": "1028",
+                "name": "Ample - 1028",
+                "lineas": [
+                    {
+                        "id": "1",
+                        "name": "Circular ",
+                        "color": "#ff00ff"
+                    },
+                    {
+                        "id": "8",
+                        "name": "Rodalies - Galícia",
+                        "color": "#008040"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [2.42533, 41.5449]
+            },
+            "properties": {
+                "id": "1029",
+                "name": "Roca Blanca - 1029",
+                "lineas": [
+                    {
+                        "id": "1",
+                        "name": "Circular ",
+                        "color": "#ff00ff"
+                    },
+                    {
+                        "id": "8",
+                        "name": "Rodalies - Galícia",
+                        "color": "#008040"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [2.42893, 41.5434]
+            },
+            "properties": {
+                "id": "1030",
+                "name": "Escola El Turó - 1030",
+                "lineas": [
+                    {
+                        "id": "1",
+                        "name": "Circular ",
+                        "color": "#ff00ff"
+                    },
+                    {
+                        "id": "8",
+                        "name": "Rodalies - Galícia",
+                        "color": "#008040"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [2.43022, 41.544]
+            },
+            "properties": {
+                "id": "1093",
+                "name": "Euskadi - 1093",
+                "lineas": [
+                    {
+                        "id": "8",
+                        "name": "Rodalies - Galícia",
+                        "color": "#008040"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [2.42893, 41.5444]
+            },
+            "properties": {
+                "id": "1133",
+                "name": "Poliesportiu Euskadi - 1133",
+                "lineas": [
+                    {
+                        "id": "8",
+                        "name": "Rodalies - Galícia",
+                        "color": "#008040"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [2.42689, 41.5469]
+            },
+            "properties": {
+                "id": "1132",
+                "name": "Galícia - 1132",
+                "lineas": [
+                    {
+                        "id": "8",
+                        "name": "Rodalies - Galícia",
+                        "color": "#008040"
+                    }
+                ]
+            }
+        }
+    ]
+}

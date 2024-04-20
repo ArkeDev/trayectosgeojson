@@ -1,0 +1,362 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [2.42927, 41.5553]
+        },
+        "properties": {
+          "id": "1001",
+          "name": "Hospital de Mataró - 1001",
+          "lineas": [
+            {
+              "id": "1",
+              "name": "Circular",
+              "color": "#ff00ff"
+            },
+            {
+              "id": "3",
+              "name": "Camí de la Serra-Vista Alegre-Rocafonda",
+              "color": "#808080"
+            },
+            {
+              "id": "4",
+              "name": "Cirera-Molins",
+              "color": "#ff0000"
+            }
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [2.43374, 41.5558]
+        },
+        "properties": {
+          "id": "1074",
+          "name": "Mataró Parc - 1074",
+          "lineas": [
+            {
+              "id": "3",
+              "name": "Camí de la Serra-Vista Alegre-Rocafonda",
+              "color": "#808080"
+            }
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [2.4384, 41.5533]
+        },
+        "properties": {
+          "id": "1075",
+          "name": "Can Soleret - 1075",
+          "lineas": [
+            {
+              "id": "3",
+              "name": "Camí de la Serra-Vista Alegre-Rocafonda",
+              "color": "#808080"
+            }
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [2.44069, 41.5519]
+        },
+        "properties": {
+          "id": "1076",
+          "name": "Camí de la Serra - 1076",
+          "lineas": [
+            {
+              "id": "3",
+              "name": "Camí de la Serra-Vista Alegre-Rocafonda",
+              "color": "#808080"
+            }
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [2.44278, 41.5548]
+        },
+        "properties": {
+          "id": "1077",
+          "name": "Joan Oliver - 1077",
+          "lineas": [
+            {
+              "id": "3",
+              "name": "Camí de la Serra-Vista Alegre-Rocafonda",
+              "color": "#808080"
+            }
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [2.44492, 41.5551]
+        },
+        "properties": {
+          "id": "1172",
+          "name": "Ronda Creu de Pedra - 1172",
+          "lineas": [
+            {
+              "id": "3",
+              "name": "Camí de la Serra-Vista Alegre-Rocafonda",
+              "color": "#808080"
+            }
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [2.44544, 41.5547]
+        },
+        "properties": {
+          "id": "1078",
+          "name": "Montalt - 1078",
+          "lineas": [
+            {
+              "id": "3",
+              "name": "Camí de la Serra-Vista Alegre-Rocafonda",
+              "color": "#808080"
+            }
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [2.44577, 41.5519]
+        },
+        "properties": {
+          "id": "1079",
+          "name": "Vista Alegre - 1079",
+          "lineas": [
+            {
+              "id": "3",
+              "name": "Camí de la Serra-Vista Alegre-Rocafonda",
+              "color": "#808080"
+            }
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [2.44606, 41.5511]
+        },
+        "properties": {
+          "id": "1006",
+          "name": "Caputxins - 1006",
+          "lineas": [
+            {
+              "id": "1",
+              "name": "Circular",
+              "color": "#ff00ff"
+            },
+            {
+              "id": "3",
+              "name": "Camí de la Serra-Vista Alegre-Rocafonda",
+              "color": "#808080"
+            },
+            {
+              "id": "6",
+              "name": "Institut Català Salut - Ctra. de Mata",
+              "color": "#febf01"
+            }
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [2.44961, 41.5512]
+        },
+        "properties": {
+          "id": "1080",
+          "name": "Franck Marshall - 1080",
+          "lineas": [
+            {
+              "id": "3",
+              "name": "Camí de la Serra-Vista Alegre-Rocafonda",
+              "color": "#808080"
+            },
+            {
+              "id": "6",
+              "name": "Institut Català Salut - Ctra. de Mata",
+              "color": "#febf01"
+            }
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [2.45189, 41.5494]
+        },
+        "properties": {
+          "id": "1081",
+          "name": "Rafael Estrany - 1081",
+          "lineas": [
+            {
+              "id": "3",
+              "name": "Camí de la Serra-Vista Alegre-Rocafonda",
+              "color": "#808080"
+            },
+            {
+              "id": "6",
+              "name": "Institut Català Salut - Ctra. de Mata",
+              "color": "#febf01"
+            }
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [2.45315, 41.5478]
+        },
+        "properties": {
+          "id": "1082",
+          "name": "Cervantes - 1082",
+          "lineas": [
+            {
+              "id": "3",
+              "name": "Camí de la Serra-Vista Alegre-Rocafonda",
+              "color": "#808080"
+            }
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [2.45498, 41.5434]
+        },
+        "properties": {
+          "id": "1083",
+          "name": "Escorxador - 1083",
+          "lineas": [
+            {
+              "id": "3",
+              "name": "Camí de la Serra-Vista Alegre-Rocafonda",
+              "color": "#808080"
+            }
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [2.45589, 41.5412]
+        },
+        "properties": {
+          "id": "1084",
+          "name": "Sant Simó - 1084",
+          "lineas": [
+            {
+              "id": "3",
+              "name": "Camí de la Serra-Vista Alegre-Rocafonda",
+              "color": "#808080"
+            }
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [2.45226, 41.5387]
+        },
+        "properties": {
+          "id": "1085",
+          "name": "Pl. del Gas - 1085",
+          "lineas": [
+            {
+              "id": "3",
+              "name": "Camí de la Serra-Vista Alegre-Rocafonda",
+              "color": "#808080"
+            }
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [2.44675, 41.5348]
+        },
+        "properties": {
+          "id": "1015",
+          "name": "El Cargol - 1015",
+          "lineas": [
+            {
+              "id": "1",
+              "name": "Circular",
+              "color": "#ff00ff"
+            },
+            {
+              "id": "3",
+              "name": "Camí de la Serra-Vista Alegre-Rocafonda",
+              "color": "#808080"
+            },
+            {
+              "id": "4",
+              "name": "Cirera-Molins",
+              "color": "#ff0000"
+            }
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [2.44474, 41.5333]
+        },
+        "properties": {
+          "id": "1016",
+          "name": "Rodalies - 1016",
+          "lineas": [
+            {
+              "id": "1",
+              "name": "Circular",
+              "color": "#ff00ff"
+            },
+            {
+              "id": "3",
+              "name": "Camí de la Serra-Vista Alegre-Rocafonda",
+              "color": "#808080"
+            },
+            {
+              "id": "4",
+              "name": "Cirera-Molins",
+              "color": "#ff0000"
+            }
+          ]
+        }
+      }
+    ]
+  }
+  

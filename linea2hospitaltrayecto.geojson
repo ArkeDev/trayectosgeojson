@@ -1,0 +1,579 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1073",
+          "name": "Hospital de Mataró - 1073",
+          "lineas": [
+            {
+              "id": "2",
+              "name": "Circular",
+              "color": "#804000"
+            },
+            {
+              "id": "5",
+              "name": "Rodalies-Hospital de Mataró",
+              "color": "#00ea00"
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            2.42865,
+            41.5563
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1037",
+          "name": "Cementiri Les Valls - 1037",
+          "lineas": [
+            {
+              "id": "2",
+              "name": "Circular",
+              "color": "#804000"
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            2.42612,
+            41.557
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1038",
+          "name": "La Llàntia - 1038",
+          "lineas": [
+            {
+              "id": "2",
+              "name": "Circular",
+              "color": "#804000"
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            2.4263,
+            41.5495
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1039",
+          "name": "Blanes - 1039",
+          "lineas": [
+            {
+              "id": "2",
+              "name": "Circular",
+              "color": "#804000"
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            2.42917,
+            41.5492
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1040",
+          "name": "Parc La Llàntia - 1040",
+          "lineas": [
+            {
+              "id": "2",
+              "name": "Circular",
+              "color": "#804000"
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            2.42918,
+            41.5473
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1041",
+          "name": "Irlanda - 1041",
+          "lineas": [
+            {
+              "id": "2",
+              "name": "Circular",
+              "color": "#804000"
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            2.43071,
+            41.5459
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1134",
+          "name": "Euskadi - 1134",
+          "lineas": [
+            {
+              "id": "2",
+              "name": "Circular",
+              "color": "#804000"
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            2.43117,
+            41.5445
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1043",
+          "name": "Escola El Turó - 1043",
+          "lineas": [
+            {
+              "id": "2",
+              "name": "Circular",
+              "color": "#804000"
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            2.4288,
+            41.5438
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1044",
+          "name": "Queralbs - 1044",
+          "lineas": [
+            {
+              "id": "2",
+              "name": "Circular",
+              "color": "#804000"
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            2.42601,
+            41.5425
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1045",
+          "name": "Pl. Gatassa - 1045",
+          "lineas": [
+            {
+              "id": "2",
+              "name": "Circular",
+              "color": "#804000"
+            },
+            {
+              "id": "8",
+              "name": "Rodalies - Galícia",
+              "color": "#008040"
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            2.42533,
+            41.5418
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1046",
+          "name": "Cerdanyola - 1046",
+          "lineas": [
+            {
+              "id": "2",
+              "name": "Circular",
+              "color": "#804000"
+            },
+            {
+              "id": "8",
+              "name": "Rodalies - Galícia",
+              "color": "#008040"
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            2.42401,
+            41.5404
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1047",
+          "name": "Pres.Tarradellas - 1047",
+          "lineas": [
+            {
+              "id": "2",
+              "name": "Circular",
+              "color": "#804000"
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            2.4211,
+            41.5392
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1048",
+          "name": "Plaça Andalusia - 1048",
+          "lineas": [
+            {
+              "id": "2",
+              "name": "Circular",
+              "color": "#804000"
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            2.42337,
+            41.5364
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1049",
+          "name": "Rosselló - 1049",
+          "lineas": [
+            {
+              "id": "2",
+              "name": "Circular",
+              "color": "#804000"
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            2.42575,
+            41.5376
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1050",
+          "name": "Gatassa - 1050",
+          "lineas": [
+            {
+              "id": "2",
+              "name": "Circular",
+              "color": "#804000"
+            },
+            {
+              "id": "6",
+              "name": "Institut Català Salut - Ctra. de Mata",
+              "color": "#febf01"
+            },
+            {
+              "id": "7",
+              "name": "Pl. Tereses - Cerdanyola",
+              "color": "#80ffff"
+            },
+            {
+              "id": "8",
+              "name": "Rodalies - Galícia",
+              "color": "#008040"
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            2.42712,
+            41.538
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1051",
+          "name": "Institut Català Salut - 1051",
+          "lineas": [
+            {
+              "id": "2",
+              "name": "Circular",
+              "color": "#804000"
+            },
+            {
+              "id": "6",
+              "name": "Institut Català Salut - Ctra. de Mata",
+              "color": "#febf01"
+            },
+            {
+              "id": "7",
+              "name": "Pl. Tereses - Cerdanyola",
+              "color": "#80ffff"
+            },
+            {
+              "id": "8",
+              "name": "Rodalies - Galícia",
+              "color": "#008040"
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            2.43047,
+            41.5365
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1052",
+          "name": "Edif. Vidre - TecnoCampus - 1052",
+          "lineas": [
+            {
+              "id": "2",
+              "name": "Circular",
+              "color": "#804000"
+            },
+            {
+              "id": "8",
+              "name": "Rodalies - Galícia",
+              "color": "#008040"
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            2.43263,
+            41.5326
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1053",
+          "name": "Sant Valentí - 1053",
+          "lineas": [
+            {
+              "id": "2",
+              "name": "Circular",
+              "color": "#804000"
+            },
+            {
+              "id": "4",
+              "name": "Cirera-Molins",
+              "color": "#ff0000"
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            2.43546,
+            41.533
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1054",
+          "name": "President Macià - 1054",
+          "lineas": [
+            {
+              "id": "2",
+              "name": "Circular",
+              "color": "#804000"
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            2.43752,
+            41.5333
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1055",
+          "name": "Jutjats - 1055",
+          "lineas": [
+            {
+              "id": "2",
+              "name": "Circular",
+              "color": "#804000"
+            },
+            {
+              "id": "8",
+              "name": "Rodalies - Galícia",
+              "color": "#008040"
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            2.43881,
+            41.5329
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1056",
+          "name": "Pl. Doctor Fleming - 1056",
+          "lineas": [
+            {
+              "id": "2",
+              "name": "Circular",
+              "color": "#804000"
+            },
+            {
+              "id": "5",
+              "name": "Rodalies-Hospital de Mataró",
+              "color": "#00ea00"
+            },
+            {
+              "id": "8",
+              "name": "Rodalies - Galícia",
+              "color": "#008040"
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            2.4405,
+            41.5338
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1057",
+          "name": "Ronda Barceló - 1057",
+          "lineas": [
+            {
+              "id": "2",
+              "name": "Circular",
+              "color": "#804000"
+            },
+            {
+              "id": "5",
+              "name": "Rodalies-Hospital de Mataró",
+              "color": "#00ea00"
+            },
+            {
+              "id": "8",
+              "name": "Rodalies - Galícia",
+              "color": "#008040"
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            2.44275,
+            41.5322
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1058",
+          "name": "Rodalies - 1058",
+          "lineas": [
+            {
+              "id": "2",
+              "name": "Circular",
+              "color": "#804000"
+            },
+            {
+              "id": "5",
+              "name": "Rodalies-Hospital de Mataró",
+              "color": "#00ea00"
+            },
+            {
+              "id": "8",
+              "name": "Rodalies - Galícia",
+              "color": "#008040"
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            2.4449,
+            41.5331
+          ]
+        }
+      }
+    ]
+  }
+  

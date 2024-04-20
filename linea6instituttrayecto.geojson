@@ -1,0 +1,322 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.43047,
+                    41.5365
+                ]
+            },
+            "properties": {
+                "id": "1051",
+                "name": "Institut Català Salut - 1051",
+                "lineas": [
+                    {
+                        "id": "2",
+                        "name": "Circular ",
+                        "color": "#804000"
+                    },
+                    {
+                        "id": "6",
+                        "name": "Institut Català Salut - Ctra. de Mata",
+                        "color": "#febf01"
+                    },
+                    {
+                        "id": "7",
+                        "name": "Pl. Tereses - Cerdanyola",
+                        "color": "#80ffff"
+                    },
+                    {
+                        "id": "8",
+                        "name": "Rodalies - Galícia",
+                        "color": "#008040"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.4335,
+                    41.5393
+                ]
+            },
+            "properties": {
+                "id": "1149",
+                "name": "Biblioteca Pompeu Fabra - 1149",
+                "lineas": [
+                    {
+                        "id": "6",
+                        "name": "Institut Català Salut - Ctra. de Mata",
+                        "color": "#febf01"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.43804,
+                    41.5424
+                ]
+            },
+            "properties": {
+                "id": "1129",
+                "name": "Geganta - 1129",
+                "lineas": [
+                    {
+                        "id": "6",
+                        "name": "Institut Català Salut - Ctra. de Mata",
+                        "color": "#febf01"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.44063,
+                    41.5442
+                ]
+            },
+            "properties": {
+                "id": "1062",
+                "name": "Parc Central - 1062",
+                "lineas": [
+                    {
+                        "id": "2",
+                        "name": "Circular ",
+                        "color": "#804000"
+                    },
+                    {
+                        "id": "4",
+                        "name": "Cirera-Molins",
+                        "color": "#ff0000"
+                    },
+                    {
+                        "id": "6",
+                        "name": "Institut Català Salut - Ctra. de Mata",
+                        "color": "#febf01"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.44234,
+                    41.5456
+                ]
+            },
+            "properties": {
+                "id": "1108",
+                "name": "Carles Padrós - 1108",
+                "lineas": [
+                    {
+                        "id": "4",
+                        "name": "Cirera-Molins",
+                        "color": "#ff0000"
+                    },
+                    {
+                        "id": "6",
+                        "name": "Institut Català Salut - Ctra. de Mata",
+                        "color": "#febf01"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.43963,
+                    41.5472
+                ]
+            },
+            "properties": {
+                "id": "1131",
+                "name": "Institut A. Satorras - 1131",
+                "lineas": [
+                    {
+                        "id": "6",
+                        "name": "Institut Català Salut - Ctra. de Mata",
+                        "color": "#febf01"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.43816,
+                    41.5491
+                ]
+            },
+            "properties": {
+                "id": "1004",
+                "name": "CAP Cirera-Molins - 1004",
+                "lineas": [
+                    {
+                        "id": "1",
+                        "name": "Circular ",
+                        "color": "#ff00ff"
+                    },
+                    {
+                        "id": "4",
+                        "name": "Cirera-Molins",
+                        "color": "#ff0000"
+                    },
+                    {
+                        "id": "6",
+                        "name": "Institut Català Salut - Ctra. de Mata",
+                        "color": "#febf01"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.44095,
+                    41.5511
+                ]
+            },
+            "properties": {
+                "id": "1005",
+                "name": "Sant Oleguer - 1005",
+                "lineas": [
+                    {
+                        "id": "1",
+                        "name": "Circular ",
+                        "color": "#ff00ff"
+                    },
+                    {
+                        "id": "6",
+                        "name": "Institut Català Salut - Ctra. de Mata",
+                        "color": "#febf01"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.44606,
+                    41.5511
+                ]
+            },
+            "properties": {
+                "id": "1006",
+                "name": "Caputxins - 1006",
+                "lineas": [
+                    {
+                        "id": "1",
+                        "name": "Circular ",
+                        "color": "#ff00ff"
+                    },
+                    {
+                        "id": "3",
+                        "name": "Camí de la Serra-Vista Alegre-Rocafonda",
+                        "color": "#808080"
+                    },
+                    {
+                        "id": "6",
+                        "name": "Institut Català Salut - Ctra. de Mata",
+                        "color": "#febf01"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.44961,
+                    41.5512
+                ]
+            },
+            "properties": {
+                "id": "1080",
+                "name": "Franck Marshall - 1080",
+                "lineas": [
+                    {
+                        "id": "3",
+                        "name": "Camí de la Serra-Vista Alegre-Rocafonda",
+                        "color": "#808080"
+                    },
+                    {
+                        "id": "6",
+                        "name": "Institut Català Salut - Ctra. de Mata",
+                        "color": "#febf01"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.45189,
+                    41.5494
+                ]
+            },
+            "properties": {
+                "id": "1081",
+                "name": "Rafael Estrany - 1081",
+                "lineas": [
+                    {
+                        "id": "3",
+                        "name": "Camí de la Serra-Vista Alegre-Rocafonda",
+                        "color": "#808080"
+                    },
+                    {
+                        "id": "6",
+                        "name": "Institut Català Salut - Ctra. de Mata",
+                        "color": "#febf01"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.45113,
+                    41.5476
+                ]
+            },
+            "properties": {
+                "id": "1122",
+                "name": "Ctra. Mata - 1122",
+                "lineas": [
+                    {
+                        "id": "6",
+                        "name": "Institut Català Salut - Ctra. de Mata",
+                        "color": "#febf01"
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,283 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [2.45113, 41.5476]
+            },
+            "properties": {
+                "id": "1122",
+                "name": "Ctra. Mata - 1122",
+                "lineas": [
+                    {
+                        "id": "6",
+                        "name": "Institut Català Salut - Ctra. de Mata",
+                        "color": "#febf01"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [2.44846, 41.5459]
+            },
+            "properties": {
+                "id": "1123",
+                "name": "Alfons X - 1123",
+                "lineas": [
+                    {
+                        "id": "6",
+                        "name": "Institut Català Salut - Ctra. de Mata",
+                        "color": "#febf01"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [2.44575, 41.5458]
+            },
+            "properties": {
+                "id": "1010",
+                "name": "Cabanellas - 1010",
+                "lineas": [
+                    {
+                        "id": "1",
+                        "name": "Circular ",
+                        "color": "#ff00ff"
+                    },
+                    {
+                        "id": "6",
+                        "name": "Institut Català Salut - Ctra. de Mata",
+                        "color": "#febf01"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [2.44163, 41.5447]
+            },
+            "properties": {
+                "id": "1011",
+                "name": "Parc Central - 1011",
+                "lineas": [
+                    {
+                        "id": "1",
+                        "name": "Circular ",
+                        "color": "#ff00ff"
+                    },
+                    {
+                        "id": "4",
+                        "name": "Cirera-Molins",
+                        "color": "#ff0000"
+                    },
+                    {
+                        "id": "6",
+                        "name": "Institut Català Salut - Ctra. de Mata",
+                        "color": "#febf01"
+                    },
+                    {
+                        "id": "8",
+                        "name": "Rodalies - Galícia",
+                        "color": "#008040"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [2.4387, 41.543]
+            },
+            "properties": {
+                "id": "1124",
+                "name": "Geganta - 1124",
+                "lineas": [
+                    {
+                        "id": "6",
+                        "name": "Institut Català Salut - Ctra. de Mata",
+                        "color": "#febf01"
+                    },
+                    {
+                        "id": "8",
+                        "name": "Rodalies - Galícia",
+                        "color": "#008040"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [2.43585, 41.5409]
+            },
+            "properties": {
+                "id": "1167",
+                "name": "Pl. Granollers - 1167",
+                "lineas": [
+                    {
+                        "id": "6",
+                        "name": "Institut Català Salut - Ctra. de Mata",
+                        "color": "#febf01"
+                    },
+                    {
+                        "id": "8",
+                        "name": "Rodalies - Galícia",
+                        "color": "#008040"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [2.4312, 41.5406]
+            },
+            "properties": {
+                "id": "1126",
+                "name": "Salesians - 1126",
+                "lineas": [
+                    {
+                        "id": "6",
+                        "name": "Institut Català Salut - Ctra. de Mata",
+                        "color": "#febf01"
+                    },
+                    {
+                        "id": "7",
+                        "name": "Pl. Tereses - Cerdanyola",
+                        "color": "#80ffff"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [2.42787, 41.5403]
+            },
+            "properties": {
+                "id": "1127",
+                "name": "Puig i Cadafalch - 1127",
+                "lineas": [
+                    {
+                        "id": "6",
+                        "name": "Institut Català Salut - Ctra. de Mata",
+                        "color": "#febf01"
+                    },
+                    {
+                        "id": "7",
+                        "name": "Pl. Tereses - Cerdanyola",
+                        "color": "#80ffff"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [2.42556, 41.5398]
+            },
+            "properties": {
+                "id": "1128",
+                "name": "Parc Cerdanyola - 1128",
+                "lineas": [
+                    {
+                        "id": "6",
+                        "name": "Institut Català Salut - Ctra. de Mata",
+                        "color": "#febf01"
+                    },
+                    {
+                        "id": "7",
+                        "name": "Pl. Tereses - Cerdanyola",
+                        "color": "#80ffff"
+                    },
+                    {
+                        "id": "8",
+                        "name": "Rodalies - Galícia",
+                        "color": "#008040"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [2.42712, 41.538]
+            },
+            "properties": {
+                "id": "1050",
+                "name": "Gatassa - 1050",
+                "lineas": [
+                    {
+                        "id": "2",
+                        "name": "Circular ",
+                        "color": "#804000"
+                    },
+                    {
+                        "id": "6",
+                        "name": "Institut Català Salut - Ctra. de Mata",
+                        "color": "#febf01"
+                    },
+                    {
+                        "id": "7",
+                        "name": "Pl. Tereses - Cerdanyola",
+                        "color": "#80ffff"
+                    },
+                    {
+                        "id": "8",
+                        "name": "Rodalies - Galícia",
+                        "color": "#008040"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [2.43047, 41.5365]
+            },
+            "properties": {
+                "id": "1051",
+                "name": "Institut Català Salut - 1051",
+                "lineas": [
+                    {
+                        "id": "2",
+                        "name": "Circular ",
+                        "color": "#804000"
+                    },
+                    {
+                        "id": "6",
+                        "name": "Institut Català Salut - Ctra. de Mata",
+                        "color": "#febf01"
+                    },
+                    {
+                        "id": "7",
+                        "name": "Pl. Tereses - Cerdanyola",
+                        "color": "#80ffff"
+                    },
+                    {
+                        "id": "8",
+                        "name": "Rodalies - Galícia",
+                        "color": "#008040"
+                    }
+                ]
+            }
+        }
+    ]
+}
